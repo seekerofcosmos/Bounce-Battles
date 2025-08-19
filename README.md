@@ -24,19 +24,6 @@ Players control paddles dynamically using **hand gestures**, creating a hands-fr
 
 ---
 
-## 📂 Project Structure  
-Bounce-Battles/
-│── pong.py # Main game script
-│── Background.png # Game background
-│── Ball.png # Ball asset
-│── bat1.png # Player 1 paddle
-│── bat2.png # Player 2 paddle
-│── gameOver.png # Game over screen
-│── StartVideo.mp4 # Intro / start animation
-│── README.md # Project documentation
-
----
-
 ## 🎥 Demo Video  
 📌 [Click here to watch the gameplay demo](https://drive.google.com/file/d/13kRxs_YpGNqzLter7iHaWS16TQ-SJ9HU/view?usp=sharing)  
 

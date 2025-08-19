@@ -32,9 +32,9 @@ Players control paddles dynamically using **hand gestures**, creating a hands-fr
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/YOUR_USERNAME/Bounce-Battles.git
+`git clone https://github.com/YOUR_USERNAME/Bounce-Battles.git`
 
-cd Bounce-Battles
+`cd Bounce-Battles`
 
 ### 2️⃣ Install Dependencies
 
@@ -42,11 +42,11 @@ Make sure Python is installed (python --version should show ≥3.8).
 
 Then install required libraries:
 
-pip install opencv-python numpy
+`pip install opencv-python numpy`
 
 ### 3️⃣ Run the Game
 
-python pong.py
+`python pong.py`
 
 Important Notes:
 

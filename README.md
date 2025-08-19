@@ -28,6 +28,33 @@ Players control paddles dynamically using **hand gestures**, creating a hands-fr
 📌 [Click here to watch the gameplay demo](https://drive.google.com/file/d/13kRxs_YpGNqzLter7iHaWS16TQ-SJ9HU/view?usp=sharing)  
 
 ---
+## ⚙️ Setup Instructions  
+
+### 1️⃣ Clone the Repository  
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Bounce-Battles.git
+cd Bounce-Battles
+
+###2️⃣ Install Dependencies
+
+Make sure Python is installed (python --version should show ≥3.8).
+
+Then install required libraries:
+
+pip install opencv-python numpy
+
+###3️⃣ Run the Game
+
+python pong.py
+
+Important Notes:
+
+✅ Do not rename or remove the Resources/ folder — the game loads all assets from it.
+
+✅ Works on Windows, macOS, and Linux (with a working webcam).
+
+✅ If you want to use custom graphics/videos, replace the files in Resources/ with your own.
 
 ## 📖 What We Learned  
 - ✅ Practical application of **optical flow algorithms** in real-world scenarios  

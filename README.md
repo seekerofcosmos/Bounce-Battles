@@ -33,6 +33,7 @@ Players control paddles dynamically using **hand gestures**, creating a hands-fr
 ### 1️⃣ Clone the Repository  
 
 git clone https://github.com/YOUR_USERNAME/Bounce-Battles.git
+
 cd Bounce-Battles
 
 ### 2️⃣ Install Dependencies
